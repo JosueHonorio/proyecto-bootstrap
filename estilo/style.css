@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*-----------------GENERALES-----------------*/
+
+body{
+    font-family: "Public Sans", sans-serif;
+}
+
+
+/* ----- HERO -----*/
+
+.main-hero{
+    display: flex;
+    background-image: url("../multimedia/imagenes/imagen-hero.jpg");
+    background-size: cover;
+    height: 92vh;
+}
+
+.heroTexto{
+    width: 900px;
+}
+
+.hero-edit{
+    color: rgb(238, 238, 238);
+}
+
+/* ----- INFO -----*/
+
+.subtitulo{
+    width: 400px;
+}
+
+.img-edit img{
+    width: 350px;
+    height: 300px;
+}
+
+.img-edit p{
+    width: 350px;
+}
+
+/* ----- ADOPCION -----*/
+
+.adoptar-inicio{
+    background-color: #f5f4f4;
+}
+
+
+/* ----- FOOTER -----*/
+
+.footer-edit p{
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+.footer-edit li{
+    display: inline-block;
+    padding: 30px;
+}
+
+.footer-edit li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+/* ----- ADOPCION -----*/
+
+.adopcion-hero{
+    display: flex;
+    background-image: url("../multimedia/imagenes/adopcion-hero.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+
+
+.borderGeneral{
+    width: 1080px;
+    height: 400px;
+}
+
+.borderGeneral img{
+    width: 400px;
+    height: 350px;
+}
+
+
+
+.contenido-adopcion{
+    width: 500px;
+}
+
+
+.info-adoptar{
+    background-color: #f5f4f4;
+}
+
+.texto-info li{
+    margin: 15px;
+    display: flex;
+}
+
+/* ----- NOSOTROS -----*/
+
+
+
+.generalFirst{
+    width: 500px;
+    padding: 5% 5% 5% 0;
+}
+
+.generalUnico{
+    width: 500px;
+    padding: 5% 5% 5% 5%;
+}
+    
+
+
+.porcentajeNosotros{
+    background-color: #ddd;
+    height: 30vh;
+}
+
+
+/* ----- NOTICIAS -----*/
+
+.noticias-hero{
+    display: flex;
+    background-image: url("../multimedia/imagenes/fondo.jpg");
+    background-size: cover;
+    height: 50vh;
+}
+
+
+
+
+
+
+
+
+
